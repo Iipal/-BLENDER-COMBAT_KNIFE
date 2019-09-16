@@ -1,6 +1,6 @@
 # Combat Knife
 
-Create using Blender 2.8 and Substance Painter 2019.2.0
+Create using Blender 2.8 and Substance Painter 2019.2.0. Published on [ArtStation](https://www.artstation.com/artwork/4bx1DW) too =)
 
 ### Substance Painter renders (2 render materials is on textures/):
 ![sp1](https://github.com/Iipal/-BLENDER-COMBAT_KNIFE/blob/master/renders/substance_painter/combat_knife1.jpg)
